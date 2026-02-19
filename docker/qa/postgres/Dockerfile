@@ -1,4 +1,4 @@
-FROM postgres:16
+FROM postgres:18
 
 # Install PostGIS
 RUN apt-get update \
