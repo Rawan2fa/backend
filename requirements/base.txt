@@ -35,5 +35,5 @@ django-simple-history==3.8.0 # https://django-simple-history.readthedocs.io/en/s
 django-soft-delete==0.9.21 # https://github.com/san4ezy/django_softdelete
 fcm-django==2.3.1 # https://fcm-django.readthedocs.io/en/latest/
 firebase-admin==7.1.0 # https://pypi.org/project/firebase-admin/
-django-auditlog==3.2.1 # https://django-auditlog.readthedocs.io/en/latest/
+django-auditlog==3.4.1 # https://django-auditlog.readthedocs.io/en/latest/
 googletrans==4.0.2 # https://github.com/ssut/py-googletrans
