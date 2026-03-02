@@ -25,7 +25,7 @@ pandas==2.2.2 # https://pandas.pydata.org/docs/
 openpyxl==3.1.5 # https://openpyxl.readthedocs.io/en/stable/
 django-internationalflavor==0.4.3 # https://django-internationalflavor.readthedocs.io/en/latest/
 django-sequences==3.0 # https://github.com/aaugustin/django-sequences
-drf-writable-nested==0.7.1 # https://github.com/beda-software/drf-writable-nested
+drf-writable-nested==0.7.2 # https://github.com/beda-software/drf-writable-nested
 django-extra-fields==3.0.2 # https://github.com/Hipo/drf-extra-fields
 django-countries==7.6.1 # https://github.com/SmileyChris/django-countries/
 django-markupfield==2.0.1 # https://pypi.org/project/django-markupfield/
